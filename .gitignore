@@ -1,0 +1,7 @@
+.local/
+artifacts/
+*.p12
+*.jks
+*.keystore
+signing.properties
+*.log
