@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 8,
-  "versionName": "0.8.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.8.0-unyx/Unyx-Bridge-0.8.0-unyx.apk",
-  "bytes": 3920991,
-  "sha256": "ce1050133d8dafbf3420bde7f5217be742c8d29e1d6f25051662e79e2412f03b",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.8.0-unyx",
-  "notes": "Економний широкий відеопрофіль, обробка застарілих кадрів, виправлення тексту HUD, тест мікрофона та діагностика мережі. Потребує перевірки в авто."
+  "versionCode": 9,
+  "versionName": "0.9.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.9.0-unyx/Unyx-Bridge-0.9.0-unyx.apk",
+  "bytes": 3931507,
+  "sha256": "21c3baf0dd0a9bfafae1f8845e5d6ebf86d1c19b7f9cf3e3b8e64b60e3249029",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.9.0-unyx",
+  "notes": "Виправлення підключення Wi-Fi, діагностика заїкання голосу, захист ID.Unyx, очищення назв HUD і відновлення служби. Потребує перевірки в авто."
 }
