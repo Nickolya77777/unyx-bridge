@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 10,
-  "versionName": "0.10.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.10.0-unyx/Unyx-Bridge-0.10.0-unyx.apk",
-  "bytes": 3939447,
-  "sha256": "ade37dad19e260884baaeadb92ade8351f4c594106711d9ad72c5d7c8691a0d5",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.10.0-unyx",
-  "notes": "Детальніша діагностика голосу, перевірка сервера Android Auto та показ активного відеопрофілю. Окремий експериментальний режим 60 FPS зі збереженням захисту ID.Unyx. Потребує перевірки в авто."
+  "versionCode": 11,
+  "versionName": "0.11.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.11.0-unyx/Unyx-Bridge-0.11.0-unyx.apk",
+  "bytes": 3941875,
+  "sha256": "d8120e1ff6caffe46fa53de8a73be0f9c7facd065b682d0ab3e438fcbe240556",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.11.0-unyx",
+  "notes": "Чіткий профіль 1920×836 · 60 FPS, захист ID.Unyx, точніша діагностика відео та пояснення тиші перед голосом. Потрібен тест нового профілю в авто."
 }
