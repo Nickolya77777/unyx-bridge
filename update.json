@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 14,
-  "versionName": "0.14.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.14.0-unyx/Unyx-Bridge-0.14.0-unyx.apk",
-  "bytes": 6960936,
-  "sha256": "932e0944c9bfebc19a60ed87de1614ebd9366777b09fe770f0ba1a79d015559e",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.14.0-unyx",
-  "notes": "Захист від циклічних підключень, підтвердження запису кадру та підписані тести SPS_CROP/COMPAT без вступного відео. База — Чіткий · 60. Нові тести потребують перевірки в авто."
+  "versionCode": 15,
+  "versionName": "0.15.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.15.0-unyx/Unyx-Bridge-0.15.0-unyx.apk",
+  "bytes": 6971680,
+  "sha256": "db0fe866ab0934aaf0f1fec70a6defa83ac60d7d44d4672dc4cdb29b7f80b708",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.15.0-unyx",
+  "notes": "Прямий COMPAT 60 для ID.Unyx, захист 450 000 байт, повернення до перекодування та окрема статистика пауз. База — Чіткий · 60. Новий профіль потребує тесту в авто."
 }
