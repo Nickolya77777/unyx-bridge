@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 13,
-  "versionName": "0.13.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.13.0-unyx/Unyx-Bridge-0.13.0-unyx.apk",
-  "bytes": 4412310,
-  "sha256": "b6a01997d366c537afab1610f1ad4035a32bc8c65b87b30a5071158b61194206",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.13.0-unyx",
-  "notes": "Відновлення прямого відео, захист запуску декодера, три швидкі профілі та контрольний тест масштабу. База — Чіткий · 60 із перекодуванням. Нові сценарії потребують перевірки в авто."
+  "versionCode": 14,
+  "versionName": "0.14.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.14.0-unyx/Unyx-Bridge-0.14.0-unyx.apk",
+  "bytes": 6960936,
+  "sha256": "932e0944c9bfebc19a60ed87de1614ebd9366777b09fe770f0ba1a79d015559e",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.14.0-unyx",
+  "notes": "Захист від циклічних підключень, підтвердження запису кадру та підписані тести SPS_CROP/COMPAT без вступного відео. База — Чіткий · 60. Нові тести потребують перевірки в авто."
 }
