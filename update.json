@@ -1,11 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 16,
-  "versionName": "0.16.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.16.0-unyx/Unyx-Bridge-0.16.0-unyx.apk",
-  "bytes": 7668182,
-  "sha256": "288d08b1b7db5cd339a805f34a44f00ecd7117d56aea2fd7a5784ee405a2ff5d",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.16.0-unyx",
-  "notes": "Повторний IDR для старту COMPAT, активний режим відео, ручне повернення, термозахист, контроль HUD і таблиці чіткості. База — Чіткий · 60. Нові зміни потребують тесту в авто."
+  "versionCode": 17,
+  "versionName": "0.17.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.17.0-unyx/Unyx-Bridge-0.17.0-unyx.apk",
+  "bytes": 7688626,
+  "sha256": "e1553712fc5df4d9787f005868901127a86352d4639db3ff5cfec9a492f89a20",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.17.0-unyx",
+  "notes": "Точна діагностика відеочерги COMPAT і відновлення перекодування без успадкованих обмежень FPS та штучного backlog. 740 тестів пройшли. Пороги черги незмінні; коротке очікування відкладено. База — Чіткий · 60. Потрібен тест у машині."
 }
-
