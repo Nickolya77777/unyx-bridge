@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 17,
-  "versionName": "0.17.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.17.0-unyx/Unyx-Bridge-0.17.0-unyx.apk",
-  "bytes": 7688626,
-  "sha256": "e1553712fc5df4d9787f005868901127a86352d4639db3ff5cfec9a492f89a20",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.17.0-unyx",
-  "notes": "Точна діагностика відеочерги COMPAT і відновлення перекодування без успадкованих обмежень FPS та штучного backlog. 740 тестів пройшли. Пороги черги незмінні; коротке очікування відкладено. База — Чіткий · 60. Потрібен тест у машині."
+  "versionCode": 18,
+  "versionName": "0.18.0-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.18.0-unyx/Unyx-Bridge-0.18.0-unyx.apk",
+  "bytes": 7712106,
+  "sha256": "5076ea4f7720cada594bf18e135398f9b5c9d9946290eefd0aa74e5a05169408",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.18.0-unyx",
+  "notes": "Новий прямий режим із полем лише знизу та запитом 60 FPS; COMPAT збережено. Діагностика темпу кадрів, тест повернення на перекодування, мітка проблеми та повідомлення про AA-сервер і нагрів. 749 тестів пройшли. Потрібен тест у машині."
 }
