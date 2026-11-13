@@ -1,10 +1,10 @@
 {
   "packageName": "ua.local.unyxbridge",
-  "versionCode": 18,
-  "versionName": "0.18.0-unyx",
-  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.18.0-unyx/Unyx-Bridge-0.18.0-unyx.apk",
-  "bytes": 7712106,
-  "sha256": "5076ea4f7720cada594bf18e135398f9b5c9d9946290eefd0aa74e5a05169408",
-  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.18.0-unyx",
-  "notes": "Новий прямий режим із полем лише знизу та запитом 60 FPS; COMPAT збережено. Діагностика темпу кадрів, тест повернення на перекодування, мітка проблеми та повідомлення про AA-сервер і нагрів. 749 тестів пройшли. Потрібен тест у машині."
+  "versionCode": 19,
+  "versionName": "0.18.1-unyx",
+  "apkUrl": "https://github.com/Nickolya77777/unyx-bridge/releases/download/v0.18.1-unyx/Unyx-Bridge-0.18.1-unyx.apk",
+  "bytes": 7714126,
+  "sha256": "2e97f609f5598365346c559505ff7ac1cedf5be888c36867167fa2d7e546d204",
+  "page": "https://github.com/Nickolya77777/unyx-bridge/releases/tag/v0.18.1-unyx",
+  "notes": "DIRECT продовжує сесію при MODERATE/SEVERE; зупинка після 20 секунд CRITICAL або вище. Headroom не зупиняє прямий потік. Додано точний пік теплового статусу й лічильник переходів без зупинки. 757 тестів пройшли; потрібен тест у машині."
 }
